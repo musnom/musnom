@@ -11,3 +11,9 @@ reach out if you want to chat or collab on any cool project/startup
 <div align="left">
 <a href="https://musnom.com">portfolio</a> · <a href="https://www.linkedin.com/in/mustafa-nomair/">linkedin</a> · <a href="https://x.com/mus_nom">twitter</a> · <a href="mailto:nomair@usc.edu">mail</a>
 </div>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/claude-footer-dark.gif">
+  <source media="(prefers-color-scheme: light)" srcset="./assets/claude-footer-light.gif">
+  <img alt="Claude walks from left to right, pausing to wave, hula hoop, present a rose, use a retro computer and laptop, write, fish, and display blue dotted bubbles." src="./assets/claude-footer-dark.gif" width="100%">
+</picture>
