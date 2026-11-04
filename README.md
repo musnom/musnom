@@ -10,5 +10,5 @@ i'm mustafa, a sophomore at the university of southern california studying compu
 reach out if you want to chat or collab on any cool project/startup
 <div align="left">
 <a href="https://musnom.com">portfolio</a> · <a href="https://www.linkedin.com/in/mustafa-nomair/">linkedin</a> · <a href="https://x.com/mus_nom">twitter</a> · <a href="mailto:nomair@usc.edu">mail</a>
-<img src="./assets/claude-footer.gif" width="100%" align="top" alt="Claude walks from left to right, pausing to wave, hula hoop, present a rose, use a retro computer and laptop, write, fish, and display blue dotted bubbles.">
+<sub><sub><img src="./assets/claude-footer.gif" width="100%" align="top" alt="Claude walks from left to right, pausing to wave, hula hoop, present a rose, use a retro computer and laptop, write, fish, and display blue dotted bubbles."></sub></sub>
 </div>
